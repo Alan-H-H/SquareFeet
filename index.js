@@ -49,4 +49,4 @@ This is the HTML template 👇. Replace everything in UPPERCASE with property da
 }
 
 /***** Modify 👇 by adding an argument to the function call ONLY. *****/
-document.getElementById('container').innerHTML = getPropertyHtml()
+document.getElementById('container').innerHTML = getPropertyHtml(property)
