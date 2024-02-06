@@ -4,7 +4,7 @@ export const propertyForSaleArr = [
         priceGBP: 890000,
         roomsM2: [14, 18, 14, 10, 6],
         comment: 'Highly desirable location in stunning scenery!',
-        image: 'cottage.jpg'
+        image: './cottage.jpg'
     },
     {
         propertyLocation: 'Wirral, Liverpool',
