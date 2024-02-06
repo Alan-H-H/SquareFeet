@@ -9,7 +9,7 @@ function getPropertyHtml() {
         total + currentItem)
         
         return `<section class="card">
-        <img src="images/${image}">
+        <img src="/images/${image}">
     <div class="card-right">
         <h2>${propertyLocation}</h2>
         <h3>EUR ${priceGBP}</h3>
